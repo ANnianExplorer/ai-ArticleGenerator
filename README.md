@@ -6,7 +6,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-### AI 爆款文章创作器
+### AI 文章创作器
 
 *基于 Spring AI Alibaba 的企业级 AI 写作平台，支持多智能体编排配图生成*
 
